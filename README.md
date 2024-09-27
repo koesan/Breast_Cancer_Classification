@@ -16,5 +16,6 @@ Bu proje, [CBIS-DDSM (Curated Breast Imaging Subset of Digital Database for Scre
 
 Veri seti, farklı türde meme kanseri vakalarını içeren tam memogram görüntüleri içerir. Proje, bu görüntüleri işleyerek, her iki modelin önceden eğitilmiş ağırlıklarını kullanarak son katmanların çıkarılması ile öznitelik çıkarımı yapar. VGG16 modelinden ve ResNet50V2 modelinden elde edilen özellikler, global average pooling ile öznitelik vektörlerine dönüştürülür ve bu öznitelikler daha sonra birleştirilerek tam bağlantılı katmanlar üzerinde işlenir. Sonuç olarak, entegre model, ikili sınıflandırma problemini çözmek için eğitim verileri üzerinde eğitilir ve hem doğruluk hem de kayıp değerleri ile değerlendirilir.
 
+***
 
-![Test sonuçları](img/img.png)
+![Test](img/img.png)
