@@ -14,7 +14,7 @@
 
 ## 📎 Live Demo - Canlı Demo
 
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/koesan/mangaspaces)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/koesan/Breast_Cancer_Classification)
 
 
 **[Model Download](https://drive.google.com/drive/folders/1PKGFF6RSPcC4kjQHR92YjeIvWn5wR4Vn?usp=drive_link)**
